@@ -1,0 +1,17 @@
+#all {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(212, 61, 119);
+    display: block;
+}
+
+input {
+    border: 1px solid red;
+    background-color: aqua 0.1;
+    height: 20%;
+    margin-left: 10px;
+}
+
+p {
+    text-align: center;
+}
