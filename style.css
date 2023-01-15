@@ -1,3 +1,8 @@
+body, html {
+    height: 99%;
+    width: 99%;
+}
+
 /**#all {
     width: 200px;
     height: 100px;
@@ -14,4 +19,47 @@ input {
 
 p {
     text-align: center;
+}**/
+
+/** Второе задание **/
+
+/**#Mymodal {
+    display: flex;
+}
+
+#modall {
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    background-color: rgba(0,0,0,0.2);
+    align-content: center;
+}
+
+#modalconteiner {
+    width: 500px;
+    height: 200px;
+    background-color: green;
+    text-align: center;
+}**/
+
+/** Третье задание **/
+
+/**#pole {
+    display: block;
+    height: 80%;
+    width: 50%;
+    background-color: green;
+    position: relative;
+    cursor: pointer;
+}
+
+#bol {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transition: 2s all;
 }**/
